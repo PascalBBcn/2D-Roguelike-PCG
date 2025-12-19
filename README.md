@@ -23,6 +23,6 @@ https://github.com/user-attachments/assets/e79897c0-fc9f-4dcf-bcdb-dbe170df82e2
 - Dungeons procedurally generated with **Binary Space Partitioning**
 - Enemy AI uses **A star Pathfinding** for movement
 - Multiple weapons to choose from
-- 2 boss fights
+- 2 boss fights, with boss rooms created using a **random walk algorithm**
 
 
