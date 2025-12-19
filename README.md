@@ -10,7 +10,7 @@
     multiple guns, and 2 boss fights.
     <br />
   </p>
-  <a href="https://shinigotme.itch.io/roguelike-playtesting"><strong>PLAY NOW</strong></a>
+  <a href="https://shinigotme.itch.io/2d-drone-roguelike"><strong>PLAY NOW</strong></a>
 </div>
 
 
